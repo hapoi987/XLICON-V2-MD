@@ -8,17 +8,17 @@
   "stack": "container",
   "env": {
     "DATABASE_URL": {
-      "description": "your mongodb database url",
+      "description": "mongodb+srv://s95141671:<jEpchby5xUM7xIqk>@cluster0.twax2.mongodb.net/",
       "required": false,
       "value": ""
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "xliconv2~I7MkxKCL#fH_zfcez2TbRkzNtv21OuO0IXOJO50Bcu4ovZh-V1QQ",
       "required": true,
       "value": ""
     },
     "MODE": {
-      "description": "mode public or private",
+      "description": "public",
       "required": true,
       "value": "public"
     },
